@@ -1,4 +1,7 @@
 # 📝 iOS Self-Documentation For Me
+
+## `Purpose`
+
     1. WWDC 내용에 대한 심화 학습
     3. 코드 기반 레이아웃에 대한 심화 학습
     5. 뷰에 대한 심화 학습
