@@ -7,7 +7,7 @@
     5. 뷰에 대한 심화 학습
     6. Xcode 심화 학습
     7. Swift와 각종 UIKit Framework 학습
-    8. RxSwift, CGD, DataPersistence 등에 대한 학습 아카이빙 목적
+    8. RxSwift, GCD, DataPersistence 등에 대한 학습 아카이빙 목적
 
 <br></br>
 
