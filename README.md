@@ -14,7 +14,7 @@
 
 # 📖 Jump to Algorithm!
 
-- []()
+- [백준 11650: 좌표 정렬하기](https://github.com/coddang/iOS_SelfDocumentation/issues/1)
 
 
 
