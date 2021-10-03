@@ -24,6 +24,9 @@
 ## `Class<2>`
 
 - [백준 11650: 좌표 정렬하기](https://github.com/coddang/iOS_SelfDocumentation/issues/1)
+- [백준 1181: 단어 정렬](https://github.com/coddang/iOS_SelfDocumentation/issues/3)
+- [백준 10989: 수 정렬하기 3](https://github.com/coddang/iOS_SelfDocumentation/issues/4)
+
 
 ## `Class<3>`
 
