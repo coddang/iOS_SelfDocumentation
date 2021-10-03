@@ -15,6 +15,8 @@
 
 # 📖 Jump to Algorithm!
 
+-[시간복잡도 정리](https://github.com/coddang/iOS_SelfDocumentation/issues/5)
+
 ## `Class<1>`
 
 - [백준 10951: A+B - 4](https://github.com/coddang/iOS_SelfDocumentation/issues/2)
@@ -27,6 +29,7 @@
 - [백준 1181: 단어 정렬](https://github.com/coddang/iOS_SelfDocumentation/issues/3)
 - [백준 10989: 수 정렬하기 3](https://github.com/coddang/iOS_SelfDocumentation/issues/4)
 
+<br>
 
 ## `Class<3>`
 
