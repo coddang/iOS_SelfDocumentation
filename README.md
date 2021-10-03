@@ -83,6 +83,6 @@
 
 # 📖 My Documentes List Link
 
-## [Swift Syntax: map, flatMap, compactMap](https://github.com/coddang/iOS_SelfDocumentation/issues/6)
+- [Swift Syntax: map, flatMap, compactMap](https://github.com/coddang/iOS_SelfDocumentation/issues/6)
 
 
