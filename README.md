@@ -39,43 +39,7 @@
 
 ## `관련 Method`
 
-  1. type(of: )
-  2. remove(at: index)
-  3. removeFirst()
-  4. removeLast()
-  5. removeValue(forkey: )
-  6. contains()
-  7. insert(something, at: index)
-  8. append()
-  9. popLast()
-  10. sort() -> 영어 우선 정렬 / 원본 값 변경
-  11. sorted() -> 한글 우선 정렬 / 복사된 값 전달(읽기 전용)
-  12. sorted(by: ) / > (내림차순) < (오름차순)
-  13. union()
-  14. intersection()
-  15. subtracting()
-  16. hasSuffix()
-  17. hasPrefix()
-  18. append(contentsOf: )
-  19. firstIndex(of: )
-  20. lastIndex(of: )
-  21. dropLast()
-  22. reversed()
-  23. enumerate()
-  24. stride(from: ,to: ,by: ) -> to 이전까지 by에 의해 연산
-  25. stride(from: ,through: ,by: ) -> through에 입력된 수까지 by에 의해 연산
-  26. array.randomElement()
-  27. array.shuffled()
-  28. .isEmpty
-  29. print(something, terminator: 기본적으로 줄바꿈 처리)
-  30. components(separatedBy: )
-  31. split(by: )
-  32. trimmingCharacters(in: ["! # 등 문자열 양쪽 제거할 문자"])
-  33. components(separatedBy: ["1", "!", "$", "%" 등]).joined()
-  34. .zip(sequence1, sequence2)
-  35. .valueUpdate(Value, forKey: Key)
-  36. .flatMap
-  37. .compactMap
+- [Swift Method Link](https://github.com/coddang/iOS_SelfDocumentation/issues/7)
 
 
 
