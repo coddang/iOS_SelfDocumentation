@@ -21,6 +21,7 @@
 ## `Class<1>`
 
 - [백준 10951: A+B - 4](https://github.com/coddang/iOS_SelfDocumentation/issues/2)
+- [백준 1157: 단어공부](https://github.com/coddang/iOS_SelfDocumentation/issues/12)
 
 <br>
 
@@ -29,6 +30,8 @@
 - [백준 11650: 좌표 정렬하기](https://github.com/coddang/iOS_SelfDocumentation/issues/1)
 - [백준 1181: 단어 정렬](https://github.com/coddang/iOS_SelfDocumentation/issues/3)
 - [백준 10989: 수 정렬하기 3](https://github.com/coddang/iOS_SelfDocumentation/issues/4)
+- [백준 10845: 큐](https://github.com/coddang/iOS_SelfDocumentation/issues/11)
+
 
 <br>
 
@@ -40,9 +43,7 @@
 ## `관련 Method`
 
 - [Swift Method Link](https://github.com/coddang/iOS_SelfDocumentation/issues/7)
-- [Swift 문자열 자르기](https://github.com/coddang/iOS_SelfDocumentation/issues/8)
-- [Swift 문자열 가지고 놀고 먹기 (1)](https://github.com/coddang/iOS_SelfDocumentation/issues/9)
-- [Swift 와 ASSCII & UNICODE]()
+
 
 <br></br>
 
@@ -51,6 +52,9 @@
 ## `Swift`
 
 - [Swift Syntax: map, flatMap, compactMap](https://github.com/coddang/iOS_SelfDocumentation/issues/6)
+- [Swift 문자열 자르기](https://github.com/coddang/iOS_SelfDocumentation/issues/8)
+- [Swift 문자열 가지고 놀고 먹기 (1)](https://github.com/coddang/iOS_SelfDocumentation/issues/9)
+- [Swift 와 ASSCII & UNICODE]()
 
 <br>
 
