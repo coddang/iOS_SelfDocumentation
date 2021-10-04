@@ -40,13 +40,19 @@
 ## `관련 Method`
 
 - [Swift Method Link](https://github.com/coddang/iOS_SelfDocumentation/issues/7)
-
-
+- [Swift 문자열 자르기](https://github.com/coddang/iOS_SelfDocumentation/issues/8)
+- [Swift 문자열 가지고 놀고 먹기 (1)](https://github.com/coddang/iOS_SelfDocumentation/issues/9)
+- [Swift 와 ASSCII & UNICODE]()
 
 <br></br>
 
 # 📖 My Documentes List Link
 
+## `Swift`
+
 - [Swift Syntax: map, flatMap, compactMap](https://github.com/coddang/iOS_SelfDocumentation/issues/6)
 
+<br>
+
+## `iOS`
 
