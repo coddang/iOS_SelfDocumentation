@@ -55,6 +55,8 @@
 - [Swift 문자열 자르기](https://github.com/coddang/iOS_SelfDocumentation/issues/8)
 - [Swift 문자열 가지고 놀고 먹기 (1)](https://github.com/coddang/iOS_SelfDocumentation/issues/9)
 - [Swift 와 ASSCII & UNICODE]()
+- [Swift 앱 강제 종료 코드](https://github.com/coddang/iOS_SelfDocumentation/issues/13)
+
 
 <br>
 
