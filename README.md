@@ -2,8 +2,8 @@
 
 ## `Purpose`
 
-+ [Jump to Algorithm!](#📖-Jump-to-Algorithm!)
-+ [All about iOS](#📖-My-Documentes-List-Link)
++ [JUMP TO ALGORITHM!](#📖-Jump-to-Algorithm!)
++ [ALL ABOUT iOS](#📖-My-Documentes-List-Link)
   - 코드 기반 레이아웃에 대한 심화 학습
   - Xcode 심화 학습
   - Swift와 각종 UIKit Framework 학습
@@ -22,6 +22,8 @@
 
 - [백준 10951: A+B - 4](https://github.com/coddang/iOS_SelfDocumentation/issues/2)
 - [백준 1157: 단어공부](https://github.com/coddang/iOS_SelfDocumentation/issues/12)
+- [백준 2475: 검증수](https://github.com/coddang/iOS_SelfDocumentation/issues/14)
+- [백준 2577: 숫자의 개수](https://github.com/coddang/iOS_SelfDocumentation/issues/16)
 
 <br>
 
@@ -31,7 +33,7 @@
 - [백준 1181: 단어 정렬](https://github.com/coddang/iOS_SelfDocumentation/issues/3)
 - [백준 10989: 수 정렬하기 3](https://github.com/coddang/iOS_SelfDocumentation/issues/4)
 - [백준 10845: 큐](https://github.com/coddang/iOS_SelfDocumentation/issues/11)
-
+- [백준 1874: 스택 수열](https://github.com/coddang/iOS_SelfDocumentation/issues/15)
 
 <br>
 
