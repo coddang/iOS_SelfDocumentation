@@ -34,6 +34,7 @@
 - [백준 10989: 수 정렬하기 3](https://github.com/coddang/iOS_SelfDocumentation/issues/4)
 - [백준 10845: 큐](https://github.com/coddang/iOS_SelfDocumentation/issues/11)
 - [백준 1874: 스택 수열](https://github.com/coddang/iOS_SelfDocumentation/issues/15)
+- [백준 2798: 블랙잭](https://github.com/coddang/iOS_SelfDocumentation/issues/17)
 
 <br>
 
