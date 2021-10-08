@@ -16,7 +16,8 @@
 
 # 📖 Jump to Algorithm!
 
--[시간복잡도 정리](https://github.com/coddang/iOS_SelfDocumentation/issues/5)
+- [시간복잡도 정리](https://github.com/coddang/iOS_SelfDocumentation/issues/5)
+- [이진 알고리즘](https://github.com/coddang/iOS_SelfDocumentation/issues/19)
 
 ## `Class<1>`
 
@@ -36,6 +37,7 @@
 - [백준 10845: 큐](https://github.com/coddang/iOS_SelfDocumentation/issues/11)
 - [백준 1874: 스택 수열](https://github.com/coddang/iOS_SelfDocumentation/issues/15)
 - [백준 2798: 블랙잭](https://github.com/coddang/iOS_SelfDocumentation/issues/17)
+- [백준 2805번: 나무자르기](https://github.com/coddang/iOS_SelfDocumentation/issues/20)
 
 <br>
 
@@ -60,7 +62,6 @@
 - [Swift 문자열 가지고 놀고 먹기 (1)](https://github.com/coddang/iOS_SelfDocumentation/issues/9)
 - [Swift 와 ASSCII & UNICODE]()
 - [Swift 앱 강제 종료 코드](https://github.com/coddang/iOS_SelfDocumentation/issues/13)
-
 
 <br>
 
