@@ -24,6 +24,7 @@
 - [백준 1157: 단어공부](https://github.com/coddang/iOS_SelfDocumentation/issues/12)
 - [백준 2475: 검증수](https://github.com/coddang/iOS_SelfDocumentation/issues/14)
 - [백준 2577: 숫자의 개수](https://github.com/coddang/iOS_SelfDocumentation/issues/16)
+- [백준 1546: 평균](https://github.com/coddang/iOS_SelfDocumentation/issues/18)
 
 <br>
 
