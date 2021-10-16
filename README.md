@@ -66,4 +66,4 @@
 <br>
 
 ## `iOS`
-
+- [Application Lift Cycle +](https://github.com/coddang/iOS_SelfDocumentation/issues/22)
